@@ -16,6 +16,7 @@ export default defineConfig({
         text: '快速入门',
         items: [
           { text: '尺寸', link: '/尺寸' },
+          { text: 'HTTP请求之axios', link: '/HTTP请求之axios' },
         ]
       }
     ],
