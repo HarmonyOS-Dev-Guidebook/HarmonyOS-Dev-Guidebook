@@ -1,0 +1,10 @@
+# System Files
+.DS_Store
+Thumbs.db
+
+# Project Files
+/.idea
+/dist
+/docs/.vitepress/dist
+/docs/.vitepress/cache
+/node_modules
