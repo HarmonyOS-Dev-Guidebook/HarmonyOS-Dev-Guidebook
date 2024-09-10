@@ -18,6 +18,12 @@ export default defineConfig({
           { text: '尺寸', link: '/尺寸' },
           { text: 'HTTP请求之axios', link: '/HTTP请求之axios' },
         ]
+      },
+      {
+        text: '数据持久化',
+        items: [
+          { text: '数据持久化之smartdb', link: '/数据持久化之smartdb' },
+        ]
       }
     ],
 
